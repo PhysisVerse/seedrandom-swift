@@ -31,7 +31,7 @@ Add the package to your project using **Swift Package Manager**.
 3. Enter the repository URL
 
 ```
-https://github.com/YOUR_USERNAME/seedrandom-swift
+https://github.com/PhysisVerse/seedrandom-swift
 ```
 
 4. Select the latest version and add the package to your target.
